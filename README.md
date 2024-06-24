@@ -2,7 +2,7 @@
 Repositório da turma 3A2
 # Este é o repositório do aluno "Izabelly Cristina Silva Rodrigues"
 Sejam todos bem vindos
-![]()
+![](https://images.app.goo.gl/T7ZFJvy41cmzk55F6)
 
 contato email 📧 lola.cristina.com.br@gmail.com 
 
